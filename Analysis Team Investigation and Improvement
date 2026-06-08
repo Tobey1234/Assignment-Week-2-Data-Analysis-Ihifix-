@@ -1,0 +1,63 @@
+Analytics Team | 10+ Year Market Perspective
+
+POSSIBLE CAUSES & OPPORTUNITIES FOR IMPROVEMENT
+
+Cause 1. Declining Repeat Customer Visits
+(a) Why It Happens:
+Customers are visiting stores less frequently over the 18-month period, meaning the company is losing its returning customer base rather than gaining new ones.
+(b) The Causes:
+Customers who previously shopped regularly have stopped returning, likely because there is no structured incentive or trigger bringing them back into the store after their initial or last purchase.
+(c) Columns to Use:
+Customer_transactions and Loyalty_programme_activity
+(d) Opportunities for Improvement:
+Identify customers who made transactions 12 or more months ago but have had zero loyalty programme activity since then. Create a re-engagement campaign targeting this exact group with time-bound return offers trackable through the loyalty programme. Measure success by tracking whether transaction frequency increases within 90 days of the campaign launch.
+(e) Why It Matters to the Company:
+Retaining an existing customer costs significantly less than acquiring a new one. If repeat visits are declining across the 30 stores, this directly reduces daily transaction volumes and compounds the overall performance decline. Reversing even a portion of this trend across stores would produce a measurable lift in revenue.
+
+Cause 2. Poor Sales Performance in Specific Product Categories
+(a) Why It Happens:
+Not all products are contributing equally to revenue. Certain product categories are consistently underperforming across stores, pulling down overall sales figures without being identified or acted upon.
+(b) The Causes:
+Products that are stocked across stores may no longer match what customers are buying, either because customer preferences have shifted or because those products are being overlooked on the floor, yet they continue to occupy shelf space and purchasing budgets.
+(c) Columns to Use:
+Product_sales and Store_performance
+(d) Opportunities for Improvement:
+Rank product categories by total sales volume across all 30 stores over the 18-month period. Identify the bottom 20% of products by sales value and cross-reference which stores carry them. Determine whether low-performing products are store-specific or company-wide, then make a store-level decision to either discontinue, reduce stock quantity, or reposition those products.
+(e) Why It Matters to the Company:
+Carrying products that do not sell ties up purchasing budget, reduces shelf space for better-performing items, and inflates operational costs. Removing or replacing underperforming products directly improves store efficiency and the overall sales figure per store.
+
+Cause 3. Loyalty Programme Is Not Converting to Actual Purchases
+(a) Why It Happens:
+Customers are enrolled in the loyalty programme but their activity within the programme is not translating into product purchases, meaning the programme exists on record but is not driving sales behaviour.
+(b) The Causes:
+Loyalty programme members may be collecting points or receiving communications but have no compelling reason tied to those points to return and make a purchase. The programme may have rewards that are too distant or not relevant enough to trigger a buying decision at the store level.
+(c) Columns to Use:
+Loyalty_programme_activity and Customer_transactions and Product_sales
+(d) Opportunities for Improvement:
+Compare the number of active loyalty programme members per store against the number of actual transactions completed by those same members within each quarter. Identify the stores where loyalty activity is high but transaction conversion is low. For those stores, investigate what rewards are available and at what point levels, then introduce a lower-threshold reward that members can realistically reach within one to two store visits.
+(e) Why It Matters to the Company:
+A loyalty programme that does not convert to sales is a cost with no return. Fixing the conversion gap between programme activity and actual purchases directly links the loyalty investment back to measurable revenue, and it does so using customers the company already has on record.
+
+Cause 4. Store-Level Performance Gaps Are Not Being Addressed Individually
+(a) Why It Happens:
+With 30 stores operating under one company, there is likely a significant gap between the best-performing and worst-performing stores. If all 30 stores are being managed with the same strategy, the underperforming stores are dragging down company-wide results without receiving targeted intervention.
+(b) The Causes:
+A blanket company strategy applied to all stores does not account for differences in customer transaction volumes, local product demand, or loyalty programme engagement at the individual store level. Stores that need a different approach are not getting one.
+(c) Columns to Use:
+Store_performance, Product_sales, and Customer_transactions
+(d) Opportunities for Improvement:
+Rank all 30 stores by total sales value and total customer transactions over the 18-month period. Identify the bottom 5 stores on both metrics. For each of those 5 stores, produce a month-by-month breakdown of where transactions and sales began declining. Use this to determine the point of decline and what was happening at those stores operationally at that time. Set individual monthly sales and transaction targets for those stores separately from the rest of the group.
+(e) Why It Matters to the Company:
+If 5 underperforming stores are averaged into the company-wide result, they mask the true performance level of the better-performing stores and reduce overall company revenue. Addressing store-level gaps individually with specific targets produces faster, measurable improvement than a company-wide approach.
+
+Cause 5. High Transaction Volume Not Translating to Proportional Sales Revenue
+(a) Why It Happens:
+Stores may be processing a consistent or even growing number of customer transactions but the total sales value per transaction is falling, meaning customers are buying fewer items or lower-value items each visit, which reduces overall revenue despite traffic remaining steady.
+(b) The Causes:
+Customers are completing transactions but spending less per visit than they did previously. This points to a reduction in basket size, meaning fewer products are being purchased per transaction, which directly reduces product sales revenue without a reduction in foot traffic being the root cause.
+(c) Columns to Use:
+Customer_transactions, Product_sales, and Store_performance
+(d) Opportunities for Improvement:
+Calculate the average sales value per transaction for each of the 30 stores on a month-by-month basis across the 18-month period. Identify which months show a drop in average value per transaction and which stores are most affected. For stores where transaction count is stable but sales value per transaction has dropped, investigate the product mix being purchased and introduce a structured approach at point of sale to present customers with complementary products relevant to what they are already buying.
+(e) Why It Matters to the Company:
+A company can lose significant revenue without losing a single customer if the amount each customer spends per visit decreases. Identifying this cause using existing transaction and sales data allows the company to act on a revenue problem that would otherwise be invisible if only total transaction counts were being monitored.
